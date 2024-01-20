@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mayur-Dongre
-- 👀 I’m interested in Full stack, MERN stack, Software Development
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on MERN stack
+- 👀 I’m interested in Java Full Stack, MERN stack, ASP.NET MVC, Software Development
 - 📫 How to reach me maddymrd07@gmail.com
 
 <!---
